@@ -1,0 +1,22 @@
+{
+  "name": "4ina3ec",
+  "version": "1.0.0",
+  "description": "basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spidkova/tea-demonstration.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spidkova/tea-demonstration/issues"
+  },
+  "homepage": "https://github.com/spidkova/tea-demonstration#readme"
+}
